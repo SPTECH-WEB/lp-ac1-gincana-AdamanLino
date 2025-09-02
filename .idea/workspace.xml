@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac9da23f-babc-4c81-b69e-752e8f2bd252" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/Gincana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/school/sptech/Gincana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/school/sptech/Gincana.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/school/sptech/Gincana.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="329AzzBYu0OjnZgYtpLvcpT4Usz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in lp-ac1.executor": "Run",
+    "JUnit.school.sptech in lp-ac1.executor": "Run",
+    "Maven.lp-ac1 [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All in lp-ac1">
+    <configuration name="All in lp-ac1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lp-ac1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="school.sptech in lp-ac1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lp-ac1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.sptech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school.sptech" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lp-ac1-gincana-AdamanLino" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lp-ac1-gincana-AdamanLino" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in lp-ac1" />
+        <item itemvalue="JUnit.school.sptech in lp-ac1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac9da23f-babc-4c81-b69e-752e8f2bd252" name="Changes" comment="" />
+      <created>1756822681195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756822681195</updated>
+    </task>
+    <servers />
+  </component>
+</project>
